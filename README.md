@@ -18,8 +18,8 @@
 
 ### 🐍 Python
 - Classes, objects, instances, methods, functions, recursion function, consturctor, interface, inheritance
-_ Encapsulation, polymorphism 
-_ Exception handlers 
+- Encapsulation, polymorphism
+- Exception handlers  
 - List, sets, dictionary, tuple, slicing, string 
 - Bytecode disassembly (`dis` module)
 - PDB debugger — `n`, `s`, `p`, `locals()`, `args` 
@@ -148,4 +148,3 @@ _ Exception handlers
 - Open-source contribution workflow
 
 ---
- once's check it and anything missing tell me
